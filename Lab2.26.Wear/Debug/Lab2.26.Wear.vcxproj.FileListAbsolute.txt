@@ -1,0 +1,2 @@
+D:\Программирование\C++\Проекты\Lab2.26.Wear\Debug\Lab2.26.Wear.exe
+D:\Программирование\C++\Проекты\Lab2.26.Wear\Debug\Lab2.26.Wear.pdb
